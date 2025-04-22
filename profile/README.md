@@ -8,9 +8,12 @@
 ODS-RAMは技術非依存の仕様をはじめとした概念レベルを含み、4つの疎結合なレイヤと4つのパースペクティブ、それらに対応する役割、プロトコル及びサービスモデルで構成されます。
 構成要素は、ODS共通と個々の社会実装のユースケース固有の要素に分けられ、その分類に沿ってOrganizationを作成しています。
 
+
 <img src="https://github.com/Ouranos-Ecosystem-Dataspaces/.github/blob/main/images/ODS-RAM.png" width="60%">
 
+
 ■Ouranos-Ecosystem Dataspaces共通
+
 　4つのレイヤなどの主要なサービスと、補助的なサービスに分けられます。
  
 　[主要なサービス]
