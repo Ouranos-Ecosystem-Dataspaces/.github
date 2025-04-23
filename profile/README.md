@@ -17,7 +17,7 @@ ODS-RAMは技術非依存の仕様をはじめとした概念レベルを含み�
 4つのレイヤなどの主要なサービスと、補助的なサービスに分けられます。
 
 [主要なサービス]   
-Organizationの名前はODS-DES（Ouranos Ecosystem Dataspaces – Data Space Essential Services）で始まります。
+Organizationの名前はODS-DFS（Ouranos Ecosystem Dataspaces – Dataspace Fundamental Services）で始まります。
 - ODS-DFS-L1 : L1データレイヤ
 - [ODS-DFS-L2](https://github.com/ODS-DFS-L2) : L2トランザクションレイヤ
 - [ODS-DFS-L3](https://github.com/ODS-DFS-L3) : L3アイデンティティレイヤ
